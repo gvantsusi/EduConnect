@@ -1,0 +1,7 @@
+Web Development Internship,Build and maintain websites for clients,Internship,2023-06-01,New York
+Summer Coding Bootcamp,Intensive 3-month coding bootcamp to learn full-stack development,Summer Camp,2023-07-01,San Francisco
+Data Science Lecture,Learn machine learning, data analysis, and AI concepts,Lecture,2023-05-15,Online
+Marketing Internship,Work with marketing team to enhance brand visibility,Internship,2023-06-10,Los Angeles
+AI Research Conference,Join researchers in AI and share knowledge at global conference,Lecture,2023-08-20,Boston
+
+
